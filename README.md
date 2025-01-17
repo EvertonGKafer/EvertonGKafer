@@ -1,6 +1,9 @@
 ## Olá, Meu nome é Everton
 
-Estou embusca
+- Tenho formação no curso técnico em Desenvolvimento de Sistemas;
+- Estou em busca de conhecer novas linguagens e tecnologias na área da compultação;
+
+## Contatos
 <!--
 **EvertonGKafer/EvertonGKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

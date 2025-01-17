@@ -5,8 +5,8 @@
 
 ##
 ## Contatos
-www.linkedin.com/in/everton-gabriel-käfer-42179226b
-@evertongabrielka
+- www.linkedin.com/in/everton-gabriel-käfer-42179226b
+- @evertongabrielka
 <!--
 **EvertonGKafer/EvertonGKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

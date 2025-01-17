@@ -3,7 +3,10 @@
 - Tenho formação no curso técnico em Desenvolvimento de Sistemas;
 - Estou em busca de conhecer novas linguagens e tecnologias na área da compultação;
 
+##
 ## Contatos
+www.linkedin.com/in/everton-gabriel-käfer-42179226b
+@evertongabrielka
 <!--
 **EvertonGKafer/EvertonGKafer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
